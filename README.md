@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=zb479519891&show_icons=true&theme=tokyonight)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zb479519891&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zb479519891&show_icons=true&theme=tokyonight)

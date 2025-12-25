@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=zb479519891&show_icons=true&theme=tokyonight)
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak/?username=zb479519891&show_icons=true&theme=tokyonight)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/wakatime/?username=zb479519891&show_icons=true&theme=tokyonight)

@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=zb479519891&color=green)
 
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=zb479519891&show_icons=true&theme=tokyonight)
-
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak/?username=zb479519891&show_icons=true&theme=tokyonight)
+
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=zb479519891&show_icons=true&theme=tokyonight)
 
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zb479519891&show_icons=true&theme=tokyonight)

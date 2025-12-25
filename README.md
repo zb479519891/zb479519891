@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=zb479519891&color=green)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zb479519891)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zb479519891)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zb479519891&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zb479519891&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,4 +1,6 @@
 ### Hi there 👋
+![visitors](https://visitor-badge.glitch.me/badge?zb479519891=page.id&left_color=green&right_color=red)
+
 ![](https://komarev.com/ghpvc/?username=zb479519891&color=green)
 <!--
 **zb479519891/zb479519891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zb479519891&left_color=green&right_color=red)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zb479519891.visitor-badge)
 
 ![](https://komarev.com/ghpvc/?username=zb479519891&color=green)
 <!--

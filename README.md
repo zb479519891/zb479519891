@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://stats.justsong.cn/api/leetcode?username=zb479519891&cn=true&theme=tokyonight)
+![](https://stats.justsong.cn/api/github?username=zb479519891&cn=true&theme=tokyonight)
 
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak/?username=zb479519891&show_icons=true&theme=tokyonight) 
 

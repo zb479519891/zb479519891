@@ -55,7 +55,6 @@ focus:
 
 <br><br>
 
-<img src="https://img.shields.io/github/commit-activity/y/zb479519891?style=for-the-badge&label=YEARLY%20COMMITS&color=58a6ff" alt="Yearly commits" />
 <img src="https://img.shields.io/github/last-commit/zb479519891/zb479519891?style=for-the-badge&label=LAST%20UPDATE&color=238636" alt="Last update" />
 
 </div>

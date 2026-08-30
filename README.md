@@ -36,14 +36,14 @@ focus:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/⚡_ACTIVITY-161b22?style=for-the-badge&labelColor=0d1117" alt="Activity" />
-<img src="https://img.shields.io/badge/📈_STATISTICS-161b22?style=for-the-badge&labelColor=0d1117" alt="Statistics" />
-<img src="https://img.shields.io/badge/💻_CODE-161b22?style=for-the-badge&labelColor=0d1117" alt="Code" />
-
-<br><br>
+<p>
+  <img src="https://img.shields.io/badge/⚡_ACTIVITY-161b22?style=for-the-badge&labelColor=0d1117" alt="Activity" />
+  <img src="https://img.shields.io/badge/📈_STATISTICS-161b22?style=for-the-badge&labelColor=0d1117" alt="Statistics" />
+  <img src="https://img.shields.io/badge/💻_CODE-161b22?style=for-the-badge&labelColor=0d1117" alt="Code" />
+</p>
 
 <a href="https://github.com/zb479519891">
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=zb479519891&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&custom_title=⚡%20GitHub%20Performance&card_width=500" alt="GitHub performance" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=zb479519891&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&custom_title=⚡%20GitHub%20Performance&card_width=500" alt="GitHub performance" />
 </a>
 <a href="https://github.com/zb479519891?tab=repositories">
 <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zb479519891&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&custom_title=🧠%20Language%20Distribution&card_width=500" alt="Language distribution" />
@@ -57,12 +57,8 @@ focus:
 
 <br><br>
 
-<table>
-<tr>
-<td align="center"><img src="https://img.shields.io/github/commit-activity/y/zb479519891?style=for-the-badge&label=YEARLY%20COMMITS&color=58a6ff" alt="Yearly commits" /></td>
-<td align="center"><img src="https://img.shields.io/github/last-commit/zb479519891/zb479519891?style=for-the-badge&label=LAST%20UPDATE&color=238636" alt="Last update" /></td>
-</tr>
-</table>
+<img src="https://img.shields.io/github/commit-activity/y/zb479519891?style=for-the-badge&label=YEARLY%20COMMITS&color=58a6ff" alt="Yearly commits" />
+<img src="https://img.shields.io/github/last-commit/zb479519891/zb479519891?style=for-the-badge&label=LAST%20UPDATE&color=238636" alt="Last update" />
 
 </div>
 

@@ -36,6 +36,12 @@ focus:
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/⚡_ACTIVITY-161b22?style=for-the-badge&labelColor=0d1117" alt="Activity" />
+<img src="https://img.shields.io/badge/📈_STATISTICS-161b22?style=for-the-badge&labelColor=0d1117" alt="Statistics" />
+<img src="https://img.shields.io/badge/💻_CODE-161b22?style=for-the-badge&labelColor=0d1117" alt="Code" />
+
+<br><br>
+
 <a href="https://github.com/zb479519891">
 <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=zb479519891&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&custom_title=⚡%20GitHub%20Performance&card_width=500" alt="GitHub performance" />
 </a>
@@ -46,13 +52,17 @@ focus:
 <br><br>
 
 <a href="https://github.com/zb479519891">
-<img width="70%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=zb479519891&hide_border=true&theme=tokyonight&date_format=%5BY.%5Dn.j" alt="GitHub streak" />
+<img width="82%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=zb479519891&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/github/commit-activity/y/zb479519891?style=for-the-badge&label=YEARLY%20COMMITS&color=58a6ff" alt="Yearly commits" />
-<img src="https://img.shields.io/github/last-commit/zb479519891/zb479519891?style=for-the-badge&label=LAST%20UPDATE&color=238636" alt="Last update" />
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/github/commit-activity/y/zb479519891?style=for-the-badge&label=YEARLY%20COMMITS&color=58a6ff" alt="Yearly commits" /></td>
+<td align="center"><img src="https://img.shields.io/github/last-commit/zb479519891/zb479519891?style=for-the-badge&label=LAST%20UPDATE&color=238636" alt="Last update" /></td>
+</tr>
+</table>
 
 </div>
 

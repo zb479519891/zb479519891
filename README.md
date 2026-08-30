@@ -36,6 +36,8 @@ focus:
 
 <div align="center">
 
+### ⚡ Coding Activity
+
 <a href="https://github.com/zb479519891">
 <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=zb479519891&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&custom_title=⚡%20GitHub%20Performance" alt="GitHub performance" />
 </a>
@@ -44,6 +46,8 @@ focus:
 </a>
 
 <br><br>
+
+### 🔥 Consistency
 
 <a href="https://github.com/zb479519891">
 <img width="75%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=zb479519891&hide_border=true&theme=tokyonight" alt="GitHub streak" />

@@ -37,33 +37,22 @@ focus:
 <div align="center">
 
 <a href="https://github.com/zb479519891">
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=zb479519891&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&custom_title=📊%20GitHub%20Overview" alt="GitHub overview" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=zb479519891&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&custom_title=⚡%20GitHub%20Performance&card_width=500" alt="GitHub performance" />
 </a>
 <a href="https://github.com/zb479519891?tab=repositories">
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zb479519891&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&custom_title=💻%20Most%20Used%20Languages" alt="Most used languages" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zb479519891&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&custom_title=🧠%20Language%20Distribution&card_width=500" alt="Language distribution" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/zb479519891">
-<img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=zb479519891&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+<img width="70%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=zb479519891&hide_border=true&theme=tokyonight&date_format=%5BY.%5Dn.j" alt="GitHub streak" />
 </a>
 
-</div>
+<br><br>
 
-## 📦 Projects
-
-<div align="center">
-
-<a href="https://github.com/zb479519891?tab=repositories">
-<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=zb479519891&repo=zb479519891&theme=tokyonight&hide_border=true" alt="Profile repository" />
-</a>
-
-<br>
-
-<a href="https://github.com/zb479519891?tab=repositories">
-<img src="https://img.shields.io/badge/🚀_Explore_All_Projects-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" />
-</a>
+<img src="https://img.shields.io/github/commit-activity/y/zb479519891?style=for-the-badge&label=YEARLY%20COMMITS&color=58a6ff" alt="Yearly commits" />
+<img src="https://img.shields.io/github/last-commit/zb479519891/zb479519891?style=for-the-badge&label=LAST%20UPDATE&color=238636" alt="Last update" />
 
 </div>
 

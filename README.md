@@ -29,9 +29,7 @@ focus:
 ## 🛠️ Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs,git,github,linux,vscode,docker&perline=10" alt="Tech stack" />
-
 </div>
 
 ## 📊 GitHub Stats
@@ -39,15 +37,33 @@ focus:
 <div align="center">
 
 <a href="https://github.com/zb479519891">
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=zb479519891&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=zb479519891&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&custom_title=📊%20GitHub%20Overview" alt="GitHub overview" />
 </a>
-<a href="https://github.com/zb479519891">
-<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zb479519891&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+<a href="https://github.com/zb479519891?tab=repositories">
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zb479519891&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&custom_title=💻%20Most%20Used%20Languages" alt="Most used languages" />
 </a>
 
 <br><br>
 
+<a href="https://github.com/zb479519891">
 <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=zb479519891&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+</a>
+
+</div>
+
+## 📦 Projects
+
+<div align="center">
+
+<a href="https://github.com/zb479519891?tab=repositories">
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=zb479519891&repo=zb479519891&theme=tokyonight&hide_border=true" alt="Profile repository" />
+</a>
+
+<br>
+
+<a href="https://github.com/zb479519891?tab=repositories">
+<img src="https://img.shields.io/badge/🚀_Explore_All_Projects-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" />
+</a>
 
 </div>
 

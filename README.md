@@ -59,7 +59,7 @@ focus:
 
 <br><br>
 
-<img src="https://img.shields.io/github/last-commit/zb479519891/zb479519891?style=for-the-badge&label=LAST%20UPDATE&color=238636" alt="Last update" />
+<img src="https://img.shields.io/github/last-commit/zb479519891/AutoGreen?style=for-the-badge&label=LAST%20UPDATE&color=238636" alt="Last update" />
 
 </div>
 

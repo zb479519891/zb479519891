@@ -64,7 +64,7 @@ focus:
 ### 🔥 Consistency · 持续贡献
 
 <a href="https://github.com/zb479519891">
-<img width="75%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=zb479519891&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+<img width="75%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=zb479519891&theme=tokyonight" />
 </a>
 
 <br><br>

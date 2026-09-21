@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="./dist/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
+<img src="./dist/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
 
 </div>
 

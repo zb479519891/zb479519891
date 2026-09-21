@@ -13,7 +13,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  KEEP_RECENT: 5
+  KEEP_RECENT: 4
 
 jobs:
   cleanup:

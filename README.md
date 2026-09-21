@@ -56,7 +56,7 @@ focus:
 <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=zb479519891&show_icons=true&theme=tokyonight" alt="GitHub performance" />
 </a>
 <a href="https://github.com/zb479519891?tab=repositories">
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zb479519891&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&custom_title=🧠%20Language%20Distribution" alt="Language distribution" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zb479519891&layout=compact&theme=tokyonight" />
 </a>
 
 <br><br>

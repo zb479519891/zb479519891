@@ -14,6 +14,16 @@
 
 </div>
 
+## 🐍 Contribution Snake · 提交记录贪吃蛇
+
+<div align="center">
+
+<img src="./dist/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
+
+</div>
+
+> 根据 GitHub 提交记录自动生成贪吃蛇动画，每天自动更新，也可以在 Actions 中手动运行。
+
 ## 🧑‍💻 About Me · 关于我
 
 ```yaml

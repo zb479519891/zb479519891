@@ -43,7 +43,7 @@ focus:
 ### ⚡ Coding Activity · 编码活动
 
 <a href="https://github.com/zb479519891">
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=zb479519891&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&custom_title=⚡%20GitHub%20Performance" alt="GitHub performance" />
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=zb479519891&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&custom_title=⚡%20GitHub%20Rating" alt="GitHub performance" />
 </a>
 <a href="https://github.com/zb479519891?tab=repositories">
 <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zb479519891&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&custom_title=🧠%20Language%20Distribution" alt="Language distribution" />

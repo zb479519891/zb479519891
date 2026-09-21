@@ -14,6 +14,14 @@
 
 </div>
 
+## 🐍 Snake Game · 贪吃蛇
+
+> 做了一个纯 HTML/CSS/JavaScript 的小游戏，无需安装依赖，打开即可玩。
+
+**[🎮 开始玩贪吃蛇](./snake.html)**
+
+操作：方向键 / WASD 控制，吃到食物得分，撞墙或撞到自己结束。
+
 ## 🧑‍💻 About Me · 关于我
 
 ```yaml

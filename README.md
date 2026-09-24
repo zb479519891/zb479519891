@@ -55,7 +55,7 @@ focus:
 <a href="https://github.com/zb479519891">
 <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=zb479519891&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/zb479519891?tab=repositories">
+<a href="https://github.com/zb479519891">
 <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zb479519891&layout=compact&theme=radical" />
 </a>
 

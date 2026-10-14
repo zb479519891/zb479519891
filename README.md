@@ -8,7 +8,7 @@
 **开发者 · 创造者 · 开源爱好者**
 
 <p>
-  <img src="https://img.shields.io/github/stars/zb479519891/zb479519891?label=PROFILE%20STARS&style=for-the-badge&color=58a6ff&logo=github&logoColor=white" alt="Profile stars" />
+  <img src="https://img.shields.io/github/repo-size/zb479519891/zb479519891?label=REPO%20SIZE&style=for-the-badge&color=238636&logo=github&logoColor=white" alt="Repository size" />
   <img src="https://img.shields.io/github/followers/zb479519891?label=FOLLOWERS&style=for-the-badge&color=238636" alt="Followers" />
 </p>
 

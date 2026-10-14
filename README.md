@@ -8,7 +8,7 @@
 **开发者 · 创造者 · 开源爱好者**
 
 <p>
-  ![Commits this year](https://img.shields.io/github/commit-activity/y/zb479519891/zb479519891?label=COMMITS%20THIS%20YEAR&style=for-the-badge&color=58a6ff&logo=github&logoColor=white)
+  ![GitHub stars](https://img.shields.io/github/stars/zb479519891/zb479519891?label=PROFILE%20STARS&style=for-the-badge&color=58a6ff&logo=github&logoColor=white)
   <img src="https://img.shields.io/github/followers/zb479519891?label=FOLLOWERS&style=for-the-badge&color=238636" alt="Followers" />
 </p>
 

@@ -74,21 +74,56 @@ focus:
 
 </div>
 
-## 🎯 2026 Goals · 2026 年目标
+## 🕹️ Developer.exe · 开发者运行状态
 
-> **Build with purpose. Ship consistently. Grow in public.**  
-> **有目标地创造，持续交付，公开成长。**
+> **当前版本：持续迭代中。没有最终形态，只有下一个版本。**  
+> *Currently in beta. No final form—just the next release.*
 
-- [ ] 🚀 **Ship 3 meaningful projects · 完成 3 个有实际价值的项目**  
-  From idea to release, with clear documentation and demos. · 从构想到发布，配备清晰文档与演示。
-- [ ] 🧠 **Deepen one core tech stack · 深入掌握一套核心技术栈**  
-  Learn by building, testing, and refactoring real applications. · 通过构建、测试和重构真实应用来学习。
-- [ ] 🌱 **Contribute to open source · 参与开源社区**  
-  Submit useful fixes, improvements, or documentation. · 提交有价值的修复、改进或文档。
-- [ ] 🛠️ **Raise project quality · 提升项目质量**  
-  Add tests, improve README files, and automate routine checks. · 补充测试、完善 README，并自动化常规检查。
-- [ ] ✍️ **Share what I learn · 分享学习成果**  
-  Publish notes, tutorials, or project write-ups. · 发布学习笔记、教程或项目总结。
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>🧠 MINDSET</h3>
+      <b>Curious by default</b><br/>
+      好奇心常驻
+    </td>
+    <td width="33%" align="center">
+      <h3>⚙️ MODE</h3>
+      <b>Build → Break → Fix</b><br/>
+      先做出来，再打磨
+    </td>
+    <td width="33%" align="center">
+      <h3>🎯 QUEST</h3>
+      <b>Make useful things</b><br/>
+      做真正有用的东西
+    </td>
+  </tr>
+</table>
+
+### 📜 The Developer's Code · 我的开发者守则
+
+- **Less talk, more shipping.** · 少一点空谈，多一点交付。
+- **If it breaks, learn why.** · 出了问题，先搞懂原因。
+- **Readable beats clever.** · 可读性优先于炫技。
+- **Stay curious. Stay dangerous.** · 保持好奇，持续进化。
+- **Never worship a tool.** · 工具是手段，不是信仰。
+
+```text
+while (alive) {
+    learn();
+    build();
+    breakThings();
+    fixThings();
+    repeat();
+}
+```
+
+<div align="center">
+
+**STATUS: ONLINE 🟢 · NEXT MISSION: SOMETHING WORTH BUILDING**
+
+**状态：在线 🟢 · 下一任务：创造点真正值得的东西**
+
+</div>
 
 ## 💬 Philosophy · 开发理念
 

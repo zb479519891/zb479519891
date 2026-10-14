@@ -10,6 +10,7 @@
 <p>
   <img src="https://img.shields.io/github/repo-size/zb479519891/zb479519891?label=REPO%20SIZE&style=for-the-badge&color=238636&logo=github&logoColor=white" alt="Repository size" />
   <img src="https://img.shields.io/github/followers/zb479519891?label=FOLLOWERS&style=for-the-badge&color=238636" alt="Followers" />
+  <img src="https://img.shields.io/badge/MOTTO-NEVER%20STOP%20BUILDING-ff6b6b?style=for-the-badge&logo=rocket&logoColor=white" alt="Never stop building" />
 </p>
 
 </div>

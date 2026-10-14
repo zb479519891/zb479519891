@@ -74,54 +74,33 @@ focus:
 
 </div>
 
-## 🕹️ Developer.exe · 开发者运行状态
+## 🧬 My Dev DNA · 我的开发者基因
 
-> **当前版本：持续迭代中。没有最终形态，只有下一个版本。**  
-> *Currently in beta. No final form—just the next release.*
+> *Part engineer, part explorer, permanently under construction.*  
+> *一半工程师，一半探索者，永远在施工中。*
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>🧠 MINDSET</h3>
-      <b>Curious by default</b><br/>
-      好奇心常驻
-    </td>
-    <td width="33%" align="center">
-      <h3>⚙️ MODE</h3>
-      <b>Build → Break → Fix</b><br/>
-      先做出来，再打磨
-    </td>
-    <td width="33%" align="center">
-      <h3>🎯 QUEST</h3>
-      <b>Make useful things</b><br/>
-      做真正有用的东西
-    </td>
-  </tr>
-</table>
+| 🧩 Trait | What it looks like · 具体表现 |
+|---|---|
+| **Curiosity 驱动** | 遇到“不知道”，第一反应是动手验证。 |
+| **Builder 实干派** | 想法不落地，就只是脑海里的装饰品。 |
+| **Debugger 排障员** | Bug 不是个人攻击，是系统发来的谜题。 |
+| **Perfectionist（适量）** | 先完成，再优化；拒绝无限打磨。 |
+| **Open-minded 持续更新** | 好方法值得坚持，旧方法也可以被推翻。 |
 
-### 📜 The Developer's Code · 我的开发者守则
+### 🧪 Lab Rules · 实验室守则
 
-- **Less talk, more shipping.** · 少一点空谈，多一点交付。
-- **If it breaks, learn why.** · 出了问题，先搞懂原因。
-- **Readable beats clever.** · 可读性优先于炫技。
-- **Stay curious. Stay dangerous.** · 保持好奇，持续进化。
-- **Never worship a tool.** · 工具是手段，不是信仰。
-
-```text
-while (alive) {
-    learn();
-    build();
-    breakThings();
-    fixThings();
-    repeat();
-}
-```
+- **Experiment > Assumption** — 少猜，多验证。
+- **Small steps, real progress** — 每次推进一点，也算推进。
+- **Make it work. Make it clear. Make it last.** — 先跑起来，再讲清楚，最后经得起时间。
+- **Stay weird. Build useful.** — 保留自己的风格，做真正有用的东西。
 
 <div align="center">
 
-**STATUS: ONLINE 🟢 · NEXT MISSION: SOMETHING WORTH BUILDING**
+### CURRENT_BUILD: ME_v∞
 
-**状态：在线 🟢 · 下一任务：创造点真正值得的东西**
+**🔋 Energy:** Curiosity · **🧭 Direction:** Follow the problem · **♻️ Update:** Every day
+
+**能量来源：好奇心 · 行动方向：追着问题走 · 更新频率：每天**
 
 </div>
 

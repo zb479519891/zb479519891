@@ -8,7 +8,7 @@
 **开发者 · 创造者 · 开源爱好者**
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=zb479519891&label=PROFILE+VIEWS&color=58a6ff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MINDSET-CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20REPEAT-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Code Create Repeat" />
   <img src="https://img.shields.io/github/followers/zb479519891?label=FOLLOWERS&style=for-the-badge&color=238636" alt="Followers" />
 </p>
 

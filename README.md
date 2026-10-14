@@ -76,16 +76,19 @@ focus:
 
 ## 🎯 2026 Goals · 2026 年目标
 
-<div align="center">
+> **Build with purpose. Ship consistently. Grow in public.**  
+> **有目标地创造，持续交付，公开成长。**
 
-| Goal · 目标 | Progress · 进度 |
-|:---|:---:|
-| 📚 Keep learning · 持续学习 | ████████████████░░░░ 80% |
-| 🚀 Build useful projects · 构建实用项目 | ██████████████░░░░░░ 70% |
-| 🌱 Open source · 参与开源 | ████████████░░░░░░░░ 60% |
-| 💻 Write better code · 编写更好的代码 | ███████████████░░░░░ 75% |
-
-</div>
+- [ ] 🚀 **Ship 3 meaningful projects · 完成 3 个有实际价值的项目**  
+  From idea to release, with clear documentation and demos. · 从构想到发布，配备清晰文档与演示。
+- [ ] 🧠 **Deepen one core tech stack · 深入掌握一套核心技术栈**  
+  Learn by building, testing, and refactoring real applications. · 通过构建、测试和重构真实应用来学习。
+- [ ] 🌱 **Contribute to open source · 参与开源社区**  
+  Submit useful fixes, improvements, or documentation. · 提交有价值的修复、改进或文档。
+- [ ] 🛠️ **Raise project quality · 提升项目质量**  
+  Add tests, improve README files, and automate routine checks. · 补充测试、完善 README，并自动化常规检查。
+- [ ] ✍️ **Share what I learn · 分享学习成果**  
+  Publish notes, tutorials, or project write-ups. · 发布学习笔记、教程或项目总结。
 
 ## 💬 Philosophy · 开发理念
 

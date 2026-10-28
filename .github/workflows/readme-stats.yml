@@ -42,7 +42,7 @@ jobs:
         uses: zb479519891/github-readme-stats-fast-action@main
         with:
           card: wakatime
-          options:  username=${{ github.repository_owner }}&layout=compact&theme=tokyonight
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight
           path: profile/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

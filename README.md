@@ -57,7 +57,7 @@ focus:
 <img width="49%" src="./profile/stats.svg" />
 </a>
 <a href="https://github.com/zb479519891">
-<img width="40%" src="./profile/top-langs.svg" />
+<img width="38%" src="./profile/top-langs.svg" />
 </a>
 
 <br><br>

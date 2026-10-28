@@ -18,7 +18,7 @@ jobs:
         uses: zb479519891/github-readme-stats-fast-action@main
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&cn
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&locale=cn
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

@@ -54,10 +54,10 @@ focus:
 ### ⚡ Coding Activity · 编码活动
 
 <a href="https://github.com/zb479519891">
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=zb479519891&show_icons=true&theme=tokyonight" />
+<img width="49%" src="./profile/stats.svg" />
 </a>
 <a href="https://github.com/zb479519891">
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zb479519891&layout=compact&theme=radical" />
+<img width="49%" src="./profile/top-langs.svg" />
 </a>
 
 <br><br>
@@ -65,7 +65,7 @@ focus:
 ### 🔥 Consistency · 持续贡献
 
 <a href="https://github.com/zb479519891">
-<img width="75%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=zb479519891&theme=tokyonight" />
+<img width="75%" src="./profile/streak.svg" />
 </a>
 
 <br><br>

@@ -65,7 +65,7 @@ focus:
 ### 🔥 Consistency · 持续贡献
 
 <a href="https://github.com/zb479519891">
-<img width="75%" src="./profile/streak.svg" />
+<img width="70%" src="./profile/streak.svg" />
 </a>
 
 <br><br>

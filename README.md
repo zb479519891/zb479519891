@@ -44,9 +44,6 @@ focus:
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs,git,github,linux,vscode,docker&perline=10" alt="Tech stack" />
 
-<p>Python · Java · JavaScript · TypeScript · Node.js · Git · GitHub · Linux · VS Code · Docker</p>
-</div>
-
 ## 📊 GitHub Stats · GitHub 数据概览
 
 <div align="center">

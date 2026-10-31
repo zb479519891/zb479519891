@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">麥&#20811;&#22856;&#29305; &#30340; GitHub &#32479;&#35745;&#25968;&#25454;, Rank: C+</title>
-        <desc id="descId">获标星数（star）: 12, 累计提交数（commit） in 2026 : 273, 拉取请求数（PR）: 5, 指出问题数（issue）: 0, 贡献于（去年）: 0</desc>
+        <desc id="descId">获标星数（star）: 12, 累计提交数（commit） in 2026 : 274, 拉取请求数（PR）: 5, 指出问题数（issue）: 0, 贡献于（去年）: 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 203.83401656450275;
+        stroke-dashoffset: 203.7796104907986;
       }
     }
   
@@ -177,7 +177,7 @@
         x="269.01"
         y="12.5"
         data-testid="commits"
-      >273</text>
+      >274</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
